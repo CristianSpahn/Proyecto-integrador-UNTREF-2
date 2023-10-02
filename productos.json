@@ -1,0 +1,100 @@
+[
+    {
+        "código": "Producto 1",
+        "nombre": "Polera Dama",
+        "imagen": "./img/503-350x453.jpg", 
+        "detalle": "Polera con cuello alto. Estándar, holgado medio. Textura suave, apta para usar sobre la piel. ",
+        "descripcion": "Colores disponibles: Bordo, Blanco, Negro",
+        "Talles": "Talles disponibles: xs-s-m-l-xl",
+        "precio": 10000,
+        "puntuación":"***"
+    }
+    ,
+   {
+        "código": "Producto 2",
+        "nombre": "Sweater Dama",
+        "imagen": "./img/020-48-350x453.jpg", 
+        "detalle": "Sweater bicolor. Prenda sin costuras.Oversize, muy holgado.  Ideal para otoño/invierno.",
+        "descripcion": "Colores disponibles: Rojo, Azul, Amarillo",
+        "Talles": "Talles disponibles: s-m-l",
+        "precio": 7500,
+        "puntuación":"***"
+    }
+    ,
+    {
+        "código": "Producto 3",
+        "nombre": "Saco Dama",
+        "imagen": "./img/03-33-350x453.jpg", 
+        "detalle": "Saco largo con trenzas en espalda, cuello con solapa. Prenda sin costuras. Textura de lana Ideal otoño/invierno.",
+        "descripcion": "Colores disponibles: Blanco, negro, verde",
+        "Talles": "Talles disponibles: s-m-l-xl-xxl",
+        "precio": 13000,
+        "puntuación":"****"
+    }
+    ,
+    {
+        "código": "Producto 4",
+        "nombre": "Cardigan Hombre",
+        "imagen": "./img/016-2-350x453.jpg", 
+        "detalle": "Cárdigan con botón tipo carey perle. Cuello alto. Textura de lana, Ideal para otoño/invierno.",
+        "descripcion": "Colores disponibles: Blanco, negro, verde",
+        "Talles": "Talles disponibles: s-m-l-xl-xxl",
+        "precio": 19000,
+        "puntuación":"*****"
+    }
+    ,
+    {
+        "código": "Producto 5",
+        "nombre": "Sweater con cierre",
+        "imagen": "./img/020-1-350x453.jpg", 
+        "detalle": "Sweater bicolor con cierre a tono. Prenda sin costuras. Ideal para otoño/invierno.",
+        "descripcion": "Colores disponibles: Blanco, negro, verde",
+        "Talles": "Talles disponibles: s-m-l-xl-xxl",
+        "precio": 19000,
+        "puntuación":"**"
+    }
+    ,
+    {
+        "código": "Producto 6",
+        "nombre": "Sweater Fino",
+        "imagen": "./img/Sweater.jpg", 
+        "detalle": "Sweater cuello redondo. Detalle de punto en el cuello. Textura suave, apta para usar sobre la piel.",
+        "descripcion": "Colores disponibles: Blanco, negro, verde",
+        "Talles": "Talles disponibles: s-m-l-xl-xxl",
+        "precio": 19000,
+        "puntuación":"****"
+    }
+    ,
+    {
+        "código": "Producto 7",
+        "nombre": "Gorro tejido",
+        "imagen": "./img/115-350x453.jpg", 
+        "detalle": "Gorro con punto inglés. Alta capacidad calórica.", 
+        "descripcion": "Colores disponibles: Blanco, negro, verde",
+        "Talles": "Talles disponibles: s-m-l-xl-xxl",
+        "precio": 3000,
+        "puntuación":"*"
+    }
+    ,
+    {
+        "código": "Producto 8",
+        "nombre": "Bufanda tejida",
+        "imagen": "./img/020-2-350x453.jpg", 
+        "detalle": "Bufanda punto inglés. Alta capacidad calórica.", 
+        "descripcion": "Colores disponibles: Blanco, negro",
+        "Talles": "Talles disponibles: xxl",
+        "precio": 3000,
+        "puntuación":"***"
+    }
+    ,
+    {
+        "código": "Producto 9",
+        "nombre": "Poncho Uspallata",
+        "imagen": "./img/020-53-350x453.jpg", 
+        "detalle": "Poncho con trabajo de punto y trenzas. Alta capacidad calórica, segunda y tercera piel. Ideal para otoño/invierno.",
+        "descripcion": "Colores disponibles: Blanco, negro, marron",
+        "Talles": "Talles disponibles: s-m-l-xl-xxl",
+        "precio": 9000,
+        "puntuación":"****"
+    }
+]

@@ -1,0 +1,135 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #747474;
+    height: auto;
+}
+header {
+    border: 2px solid #4e5f70;
+    margin: 0 auto;
+    padding: 10rem 0;
+    background-color: #4e5f70;
+    color: #000000;
+    border-radius: 10px;
+    text-align: center;
+    background-image: url(../img/ropa.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+main {
+    margin: 0 auto;
+    padding: 0px;
+    background-color: #0084ff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    
+}
+.detalle {
+    background-color: #333;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+.estrella-llena {
+    color: rgb(0, 255, 13);
+    font-size: 25px;
+    margin-right: 3px;
+}
+.estrella-vacia {
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    margin-right: 3px;
+}
+.DetallesDeLaPrenda {
+    text-align: center;
+}
+.DetallesDeLaPrenda p {
+    text-align: center;
+}
+
+.DetallesDeLaPrenda img {
+    max-width: 100%;
+    height: auto;
+}
+.volver {
+    display: block;
+    margin: 10px auto;
+    padding: 10px 40px;
+    background-color: #00ff00;
+    color: #fff;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+}
+.volver:hover {
+    background-color: #2600ff;
+}
+.ver-detalle {
+    display: flex;
+    margin: 20px auto;
+    padding: 10px 10px;
+    background-color: #00ff00;
+    color: #fff;
+    border-radius: 25px;
+    border: none;
+    cursor: pointer;
+}
+.ver-detalle:hover {
+    background-color: #2600ff;
+}
+.Ropa {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.Catalogo {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between; 
+}
+.Prenda {
+    width: calc(33.33% - 20px);
+    margin-bottom: 20px;
+    background-color: #ff0000;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.4); 
+    transition: transform 0.3s;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+} 
+.Prenda:hover {
+    transform: translateY(+2px);
+}
+.Prenda h2 {
+    font-size: 1.5rem;
+    margin: 10px;
+    text-align: center;
+}
+.Prenda p {
+    margin: 0 10px 10px;
+    text-align: center;
+}
+.PrendaElegida{
+    width: calc(33.33% - 20px);
+    margin-bottom: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+@media screen and (max-width: 700px) {
+    .Ropa {
+        flex-direction: column;
+    }
+
+    .Prenda {
+        width: 100%;
+    }
+
+}
